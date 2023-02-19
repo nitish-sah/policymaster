@@ -1,0 +1,23 @@
+{
+  "User": {
+    "firstName": {
+      "string": {}
+    },
+     "lastName": {
+      "string": {}
+    },
+   
+   
+    "policyNo": {
+       "string": {}
+    },
+    
+    "vehicalNo": {
+       "string": {}
+    },
+    "govtId": {
+       "string": {}
+    }
+   
+  }
+}
